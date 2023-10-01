@@ -1,0 +1,45 @@
+html {
+    box-sizing: border-box  ;
+}
+
+body {
+    background: rgb(224, 201, 169);
+}
+
+.choco-header {
+    color: rgb(87, 33, 14);
+}
+
+.main-details {
+    text-decoration: underline;
+    text-align: center;
+    
+}
+.main-details p {
+    display: inline; 
+    margin: 0 12px;
+}
+
+.brown-p {
+    color: rgb(147, 63, 61);
+}
+
+.ingr-content1 {
+    margin-left: 40em;
+}
+
+#ingr-heading1 {
+    color: aliceblue;  
+    width: 18em;  
+    border: 3px;
+    background-color: rgb(150, 49, 2);
+    border-radius: 10px;
+}
+
+.ingr-content1 ul li {
+    line-height: 1.7em;
+}
+
+.afıyet {
+    font-size: 20;
+}
